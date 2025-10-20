@@ -1,7 +1,7 @@
-ody {
-    background-color: #1D4221;
+body {
+    background-color: #dc326bff;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Oswald", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,8 +10,8 @@ ody {
 }
 
 button {
-    background-color: #64A712;
+    background-color: #6f194dff;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Oswald", sans-serif;
 }
 
