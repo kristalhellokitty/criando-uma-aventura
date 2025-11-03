@@ -13,5 +13,14 @@ button {
     background-color: #6f194dff;
     color: white;
     font-family: "Oswald", sans-serif;
+
+}
+
+.passo {
+    display: nome;
+}
+
+.passo.ativo {
+    display: block;
 }
 
