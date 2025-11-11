@@ -33,3 +33,13 @@ img {
     max-width: 90%;
 }
 
+main{
+    text-aling: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
+}
+
+
